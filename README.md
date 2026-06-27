@@ -126,11 +126,7 @@ website-login-email-capture/
 │   ├── Login_Screen_Use_Cases.docx
 │   ├── Login_Screen_Process_Flow.docx
 │   └── Login_Screen_Wireframes.docx
-│
-└── images/
-    ├── login-wireframe.png
-    ├── process-flow.png
-    └── use-case-diagram.png
+
 ```
 
 ---
@@ -147,9 +143,6 @@ Defines the business objectives, project scope, functional requirements, assumpt
 
 Documents user needs using Agile user story format along with acceptance criteria.
 
-Example:
-
-> As a website visitor, I want to enter my email address so that I can receive updates from the company.
 
 ---
 
@@ -176,37 +169,11 @@ Low-fidelity mockups communicate the intended layout and functionality of the lo
 
 ---
 
-## Key Deliverables
-
-- Business Requirements Document (BRD)
-- User Stories
-- Use Cases
-- Process Flow Diagram
-- Wireframes
-
----
-
 ## Business Value
 
 This project demonstrates the documentation and communication skills required to successfully translate business needs into software requirements. By producing structured requirements, user stories, process flows, and wireframes, the project illustrates how Business Analysts reduce ambiguity, improve stakeholder communication, and support successful software development.
 
 ---
 
-## Author
 
-**Peter Deister**
-
-Aspiring Business Analyst | Data Analyst
-
-**Skills**
-
-- Business Analysis
-- Requirements Gathering
-- Process Modeling
-- User Stories
-- Use Cases
-- Wireframing
-- SQL
-- Tableau
-- Microsoft Excel
 - Git & GitHub
