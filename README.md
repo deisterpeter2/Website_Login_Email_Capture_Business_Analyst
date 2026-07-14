@@ -123,7 +123,7 @@ website-login-email-capture/
 ├── documentation/
 │   ├── Login_Screen_Business_Requirements.docx
 │   ├── Login_Screen_User_Stories.docx
-│   ├── Login_Screen_Use_Cases.docx
+│   ├── Login_Screen_Use_Cases.xlsx
 │   ├── Login_Screen_Process_Flow.docx
 │   └── Login_Screen_Wireframes.docx
 
